@@ -9,24 +9,17 @@
 <P>德语版：Sie als Beklagter haben das Recht, sich zu äußern. Jedes Wort, das Sie von diesem Zeitpunkt bis zur Gerichtsverhandlung sprechen, wird aufgezeichnet, archiviert und öffentlich gemacht. Sie können Ihren eigenen Anwalt bestellen oder vom Staat einen bestellen lassen. Sie haben das Recht, dies einzufordern. Hiermit wird dies angezeigt.</P>
 <P>俄语版：Вы, как обвиняемый, имеете право хранить молчание. Каждое слово, которое вы скажете от этого момента до судебного заседания, будет записано, архивировано и опубликовано. Вы можете нанять своего адвоката или запросить назначение адвоката государством. Вы имеете право требовать исполнения этого права. Здесь сообщается.</P>
 ---------------------------------
-中文第三版：你作为被告有权保持缄默，于此刻至庭审结束一言一行均将归档并公示之。你可自聘律师或请求政府委派。特此告之。（由GROK进行翻译）<P>
-英文 (English)
-You, as the defendant, have the right to remain silent. From this moment until the end of the trial, everything you say or do will be recorded, archived, and made public. You have the right to hire your own lawyer or request that the government appoint one for you. This is hereby notified.
+<P>中文第三版：你作为被告有权保持缄默，于此刻至庭审结束一言一行均将归档并公示之。你可自聘律师或请求政府委派。特此告之。（由GROK进行翻译）<P>
+英文 (English)：You, as the defendant, have the right to remain silent. From this moment until the end of the trial, everything you say or do will be recorded, archived, and made public. You have the right to hire your own lawyer or request that the government appoint one for you. This is hereby notified.
 
-法文 (Français)
-Vous, en tant que prévenu, avez le droit de garder le silence. À partir de cet instant et jusqu’à la fin du procès, chacune de vos paroles et de vos actes sera enregistrée, archivée et rendue publique. Vous avez le droit de choisir votre propre avocat ou de demander que le gouvernement vous en désigne un. Ceci est porté à votre connaissance.
+法文 (Français)：Vous, en tant que prévenu, avez le droit de garder le silence. À partir de cet instant et jusqu’à la fin du procès, chacune de vos paroles et de vos actes sera enregistrée, archivée et rendue publique. Vous avez le droit de choisir votre propre avocat ou de demander que le gouvernement vous en désigne un. Ceci est porté à votre connaissance.
 
-西班牙文 (Español)
-Usted, como acusado, tiene derecho a guardar silencio. Desde este momento hasta la conclusión del juicio, todas sus palabras y acciones serán registradas, archivadas y hechas públicas. Tiene derecho a contratar su propio abogado o a solicitar que el gobierno le designe uno. Queda debidamente notificado.
+西班牙文 (Español)：Usted, como acusado, tiene derecho a guardar silencio. Desde este momento hasta la conclusión del juicio, todas sus palabras y acciones serán registradas, archivadas y hechas públicas. Tiene derecho a contratar su propio abogado o a solicitar que el gobierno le designe uno. Queda debidamente notificado.
 
-俄文 (Русский)
-Вы, как обвиняемый, имеете право хранить молчание. С этого момента и до окончания судебного разбирательства все ваши слова и действия будут зафиксированы, архивированы и обнародованы. Вы имеете право нанять собственного адвоката или попросить правительство назначить вам адвоката. Настоящим уведомляем.
+俄文 (Русский)：Вы, как обвиняемый, имеете право хранить молчание. С этого момента и до окончания судебного разбирательства все ваши слова и действия будут зафиксированы, архивированы и обнародованы. Вы имеете право нанять собственного адвоката или попросить правительство назначить вам адвоката. Настоящим уведомляем.
 
-德文 (Deutsch)
-Sie als Angeklagter haben das Recht zu schweigen. Von diesem Moment an bis zum Ende des Verfahrens werden alle Ihre Worte und Handlungen aufgezeichnet, archiviert und öffentlich gemacht. Sie haben das Recht, einen eigenen Anwalt zu beauftragen oder die Regierung zu bitten, Ihnen einen Anwalt zu bestellen. Dies wird hiermit mitgeteilt.
+德文 (Deutsch)：Sie als Angeklagter haben das Recht zu schweigen. Von diesem Moment an bis zum Ende des Verfahrens werden alle Ihre Worte und Handlungen aufgezeichnet, archiviert und öffentlich gemacht. Sie haben das Recht, einen eigenen Anwalt zu beauftragen oder die Regierung zu bitten, Ihnen einen Anwalt zu bestellen. Dies wird hiermit mitgeteilt.
 
-韓文 (한국어)
-피고인으로서 귀하는 침묵할 권리가 있습니다. 지금부터 재판이 끝날 때까지 귀하의 모든 말과 행동은 기록·보관·공개될 것입니다. 귀하는 스스로 변호사를 선임하거나 정부에 변호사 지명을 요청할 권리가 있습니다. 이상을 알려드립니다.
+韓文 (한국어)：피고인으로서 귀하는 침묵할 권리가 있습니다. 지금부터 재판이 끝날 때까지 귀하의 모든 말과 행동은 기록·보관·공개될 것입니다. 귀하는 스스로 변호사를 선임하거나 정부에 변호사 지명을 요청할 권리가 있습니다. 이상을 알려드립니다.
 
-日文 (日本語)
-あなたは被告人として、黙秘する権利を有します。これより裁判終了まで、あなたの一言一行はすべて記録・保管・公開されます。ご自身で弁護士を雇うか、政府に弁護士の指名を求める権利があります。以上、特此告知いたします。
+日文 (日本語)：あなたは被告人として、黙秘する権利を有します。これより裁判終了まで、あなたの一言一行はすべて記録・保管・公開されます。ご自身で弁護士を雇うか、政府に弁護士の指名を求める権利があります。以上、特此告知いたします。
