@@ -1,5 +1,6 @@
 《沉默告知》<P>
-你作为被告有权利保持沉默，从此刻到开庭的每一句话都将记录归档并公示，你可以自己请律师或请求政府指派。你有权执行，特此告之。<P>
+第一版：你作为被告有权利保持沉默，从此刻到开庭的每一句话都将记录归档并公示，你可以自己请律师或请求政府指派。<p>
+第二版：你作为被告有权利保持沉默，从此刻到开庭的每一句话都将记录归档并公示，你可以自己请律师或请求政府指派。你有权执行，特此告之。<P>
 <P>英语版：You, as a defendant, have the right to remain silent. Every word you speak from this moment until the court hearing will be recorded, archived, and made public. You may hire your own lawyer or request the government to appoint one. You have the right to enforce this. This is hereby notified.</P>
 <P>法语版：Vous, en tant que défendeur, avez le droit de vous taire. Chaque parole que vous prononcez depuis ce moment jusqu'à l'audience sera enregistrée, archivée et rendue publique. Vous pouvez engager votre propre avocat ou demander au gouvernement de vous en désigner un. Vous avez le droit d'exiger cela. Ceci est par la présente notifié.</P>
 <P>西语版：Usted, como acusado, tiene derecho a mantenerse en silencio. Cada palabra que diga desde este momento hasta el juicio será registrada, archivada y publicada. Puede contratar su propio abogado o solicitar que el gobierno le designe uno. Tiene derecho a hacer valer esto. Por la presente se notifica.</P>
