@@ -1,7 +1,7 @@
 **国家标志**
 
 国名：（新）九州邦联<p>
-英文名：the Great State of Nyetrok / Naychok<p>
+英文名：the Great States of Nyetrok / Naychok<p>
 简称：GSN<p>
 临时代国歌：《岂曰无衣》<p>
 國家格言：书增智，武健体，礼修身。<p>
