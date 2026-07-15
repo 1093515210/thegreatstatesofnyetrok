@@ -1,5 +1,16 @@
 **截取AI的分析，来自gemini；chatgpt；claude；perplexity；grok。**
 
+# 国旗
+<img width="5000" height="2500" alt="flag of eastland" src="https://github.com/user-attachments/assets/6d7818f5-0d0e-4fda-ad8f-52e26026fce8" />
+比例2:1，<p>
+左为阴右为陽，上为青天下为水。<p>
+太阳升起月亮下，中间布满北斗星。<p>
+國名叫做新九州，去大一統建邦聯。<p>
+國際名the Great States of Eastland<p>
+國家格言：书增智，武健体，礼修身。<p>
+國家格言：以謙卑之心建大同社會。<p>
+非常传统。源自唐帝国日月星。<p>
+
 # 国家标志
 国名：（新）九州邦联<p>
 英文名：the Great States of Nyetrok / Naychok或者 the Great States of Eastland<p>
@@ -24,14 +35,3 @@
 政党：多党轮替<p>
 国树：银杏<p>
 国鸟：黑颈鹤<p>
-
-# 国旗
-<img width="5000" height="2500" alt="flag of eastland" src="https://github.com/user-attachments/assets/6d7818f5-0d0e-4fda-ad8f-52e26026fce8" />
-比例2:1，
-左为阴右为陽，上为青天下为水。
-太阳升起月亮下，中间布满北斗星。
-國名叫做新九州，去大一統建邦聯。
-國際名the Great States of Eastland
-國家格言：书增智，武健体，礼修身。
-國家格言：以謙卑之心建大同社會。
-非常传统。源自唐帝国日月星。
