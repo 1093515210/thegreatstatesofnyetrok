@@ -1,4 +1,4 @@
-**截取AI的分析，来自gemini；chatgpt；claude；perplexity；grok。**
+**截取AI的分析，来自gemini；chatgpt；claude；perplexity；grok。人工智慧不是人类难免会犯错。**
 
 # 国旗
 <img width="5000" height="2500" alt="flag of eastland" src="https://github.com/user-attachments/assets/6d7818f5-0d0e-4fda-ad8f-52e26026fce8" />
