@@ -121,17 +121,18 @@ Confederation意为邦联。
 GSEC取自：
 
 Great
+
 States
+
 Eastland
+
 Confederation
 
 类似国际历史中的：
 
-USSR
-Union of Soviet Socialist Republics
+USSR  Union of Soviet Socialist Republics
 
-CCCP
-Союз Советских Социалистических Республик
+CCCP  Союз Советских Социалистических Республик
 
 GSEC作为国际简称，用于外交、国际组织以及正式文件。
 
