@@ -1,6 +1,6 @@
 # 国家标志
 
-国名：（新）九州邦联，备用国号“玖”<p>
+国名：（新）九州邦联，备用国号“玖”或“东玖”<p>
 英文名：The Great States of Eastland Confederation<p>
 简称：GSEC<p>
 临时代国歌：《岂曰无衣》<p>
