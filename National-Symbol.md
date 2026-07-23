@@ -2,7 +2,7 @@
 
 国名：（新）九州邦联，备用国号“玖”或“东玖”<p>
 英文名：The Great States of Eastland <p>
-宪法定义：A confederation of autonomous states established in Eastland.
+宪法定义：A confederation of autonomous states established in Eastland.<p>
 简称：GSE<p>
 临时代国歌：《岂曰无衣》<p>
 國家格言：书增智，武健体，礼修身。<p>
