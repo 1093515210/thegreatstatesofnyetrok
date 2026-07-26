@@ -12,7 +12,7 @@
 <p>土地、房产与不动产登记法（Property & Land Registry Act）</p>
 <p>反垄断与自由竞争法（Anti-Monopoly & Free Competition Act）</p>
 <p>移民、出入境与自由流动法（Immigration & Freedom of Movement Act）与选举与罢免法、国籍法有重叠</p>
-<p>反垄断与自由竞争法（Anti-Monopoly & Free Competition Act）</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
